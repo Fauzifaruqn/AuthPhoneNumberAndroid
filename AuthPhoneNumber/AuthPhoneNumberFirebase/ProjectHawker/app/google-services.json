@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "896318223856",
+    "firebase_url": "https://project-hawker-178d7.firebaseio.com",
+    "project_id": "project-hawker-178d7",
+    "storage_bucket": "project-hawker-178d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896318223856:android:79834b4f986cd80e",
+        "android_client_info": {
+          "package_name": "com.example.projecthawker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896318223856-ar7rns1k9f80spupf25i0mtvde6eb3c4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projecthawker",
+            "certificate_hash": "4f1309f27cf5ab2773bf8f363bf7eefc4c5edf0d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCELf2Oej42jAxQ0VjpuTbXOJI3I8F6R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896318223856-isocnv0gfaf3g8d4orls5hdl4dsn9nrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
